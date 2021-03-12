@@ -6,4 +6,4 @@ student of high school with another imagination
 - Node
 - React
 - JavaScript
-- litle bit of ui/ux design
+- little bit of ui/ux design
